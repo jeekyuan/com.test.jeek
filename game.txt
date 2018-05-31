@@ -1,0 +1,9 @@
+car 0
+pencil 0
+monster -3
+nokia -5
+fruit 6
+food 8
+brick 0
+enemy -9
+candy 7
